@@ -42,21 +42,3 @@ public:
     }
 };
 
-
-# Open a terminal and navigate to your project directory
-cd "/C:/Users/8yi/Desktop/155 LeetCode"
-
-# Initialize git if you haven't already
-git init
-
-# Add your file to the staging area
-git add 1.cpp
-
-# Commit your changes
-git commit -m "Add solution for Regular Expression Matching"
-
-# Add your GitHub repository as a remote (replace the URL with your repo's URL)
-git remote add origin https://github.com/your-username/your-repo-name.git
-
-# Push your code to GitHub
-git push -u origin master
